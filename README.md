@@ -22,7 +22,7 @@ Conseguimos insights  que apoiam decisões estratégicas e oportunidades de otim
 
 ---
 
-###Análises de Clientes e Segmentos
+### Análises de Clientes e Segmentos
 
 <img width="623" height="662" alt="image" src="https://github.com/user-attachments/assets/2b887e5b-67a0-4f8c-8d3f-8608132ae4d5" />
 
